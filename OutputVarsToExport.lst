@@ -1,2 +1,260 @@
-Output Cumulative Total CO2e Emissions
-Output First Year NPV of CapEx and OpEx through This Year
+Output Total CO2e Emissions	
+Output Total CO2e Emissions Excluding LULUCF	
+Output Total CO2e Emissions by Sector	
+Output Industry Sector Excluding Ag and Waste CO2e Emissions	
+Output Buildings Sector CO2e Emissions	
+Output Agriculture CO2e Emissions	
+Output Waste Management CO2e Emissions	
+Output Energy Related CO2e Emissions	
+Output Process Emissions in CO2e	
+Output Total CO2e Emissions by Pollutant	
+Output Total CO2e Emissions per Unit GDP	
+Output Total CO2 Emissions	
+Output Total CH4 Emissions	
+Output Total N2O Emissions	
+Output Total F Gas Emissions in CO2e	
+Output Total PM25 Emissions	
+Output Total PM10 Emissions	
+Output Total BC Emissions	
+Output Total OC Emissions	
+Output Total NOx Emissions	
+Output Total VOC Emissions	
+Output Total SOx Emissions	
+Output Total CO Emissions	
+Output Energy Related CO2 Emissions by Sector	
+Output Energy Related CO2 Emissions from Buildings Sector	
+Output Energy Related CO2 Emissions from Agriculture	
+Output Energy Related CO2 Emissions from Waste Management	
+Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Industry Sector	
+Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Transportation Sector	
+Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Buildings Sector	
+Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Agriculture	
+Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Waste Management	
+Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Geoengineering Sector	
+Output Energy Related CO2 Emissions from Hard Coal and Lignite	
+Output Energy Related CO2 Emissions by Fuel	
+Output Energy Related CO2 Emissions from Refined Petroleum Fuels	
+Output Energy Related CO2 Emissions from Biomass Biofuels and MSW	
+Output CO2 Captured via DAC	
+Output Energy Related CO2 per Unit GDP	
+Output Total Change in Fuel and OM Expenditures	
+Output Total Change in Capital Expenditures	
+Output Carbon Tax on Process Emissions	
+Output Rebate of Taxes Less Subsidies	
+Output Total Change in CapEx and OpEx	
+Output Government Revenue Change Allocated by Mechanism	
+Output Cumulative Change in National Debt	
+Output Change in Interest Paid on National Debt	
+Output Change in Government Cash Flow by Cash Flow Source	
+Output Change in Cash Flow by Entity Including Macro Feedbacks	
+Output Change in Fossil and Utility Domestic Jobs	
+Output Change in Manufacturing and Construction Domestic Jobs	
+Output Change in Other Domestic Jobs	
+Output Change in Domestic Jobs	
+Output Change in Domestic Union Represented Jobs	
+Output Change in Domestic Non Union Jobs	
+Output Direct Change in Jobs	
+Output Indirect Change in Jobs	
+Output Induced Change in Jobs	
+Output Change in Fossil and Utility Direct and Indirect Jobs	
+Output Change in Manufacturing and Construction Direct and Indirect Jobs	
+Output Change in Other Direct and Indirect Jobs	
+Output Change in Direct and Indirect Jobs	
+Output Change in Fossil and Utility GDP Contribution	
+Output Change in Manufacturing and Construction GDP Contribution	
+Output Change in Other GDP Contribution	
+Output Change in GDP	
+Output Fossil and Utility Contribution to Perc Change in GDP	
+Output Manufacturing and Construction Contribution to Perc Change in GDP	
+Output Other Contribution to Perc Change in GDP	
+Output Perc Change in GDP	
+Output Direct Change in GDP	
+Output Indirect Change in GDP	
+Output Induced Change in GDP	
+Output Change in Fossil and Utility Domestic Employee Compensation	
+Output Change in Manufacturing and Construction Domestic Employee Compensation	
+Output Change in Other Domestic Employee Compensation	
+Output Change in Domestic Employee Compensation	
+Output Change in Compensation per Domestic Employee	
+Output Direct Change in Compensation	
+Output Indirect Change in Compensation	
+Output Induced Change in Compensation	
+Output Change in Cash Flow by Entity	
+Output Change in Revenue by Entity	
+Output Change in Energy Expenditures by Entity Inverted	
+Output Change in Nonenergy Expenditures by Entity Inverted	
+Output Change in Domestic Revenue by Entity	
+Output Change in Export Revenue by Entity	
+Output Avoided Premature Mortality	
+Output Social Benefits from Emissions Reduction	
+Output Avoided Lost Workdays	
+Output Avoided Respiratory Symptoms and Bronchitis	
+Output Avoided Asthma Attacks	
+Output Avoided Nonfatal Heart Attacks	
+Output Avoided Hospital Admissions	
+Output Avoided Respiratory ER Visits	
+Output Avoided Minor Restricted Activity Days	
+Output Net Imports of Electricity	
+Output Electricity Generation by Type	
+Output Non Solar Distributed Output	
+Output Distributed Solar PV Output	
+Output Change in Net Imports of Electricity	
+Output Change in Electricity Generation by Type	
+Output Change in Distributed Solar PV Output	
+Output Electricity Generation Capacity	
+Output Non Solar Distributed Capacity	
+Output Distributed Solar PV Capacity	
+Output Change in Electricity Generation Capacity	
+Output Change in Distributed Solar Capacity	
+Output Buildings Sector Electricity Use	
+Output Industry Sector Electricity Use	
+Output Transportation Sector Electricity Use	
+Output Agriculture Electricity Use	
+Output Waste Management Electricity Use	
+Output District Heat and Hydrogen Electricity Use	
+Output Cost per Unit New Elec Output	
+Output Curtailed Electricity Output	
+Output Electricity Sector CO2e Emissions	
+Output Water Withdrawn by Power Plants	
+Output Water Consumed by Power Plants	
+Output New Vehicles in Millions	
+Output New Vehicles in Thousands	
+Output Vehicles in Millions	
+Output Vehicles in Thousands	
+Output Transportation Pollutant Emissions by Vehicle Type	
+Output Transportation Sector Fuel Used by Fuel	
+Output Transportation Sector Fuel Used by Vehicle Type	
+Output Passenger Dist Transported	
+Output Freight Dist Transported	
+Output Industrial Fuel Use by Industry	
+Output Industrial Fuel Use by Fuel	
+Output Industrial Fuel Use for Energy Purposes by Industry	
+Output Industrial Fuel Use for Energy Purposes by Fuel	
+Output Industry Sector CO2e Emissions by Industry	
+Output Industry Sector CO2e Emissions by Pollutant	
+Output Process Emissions in CO2e by Industry	
+Output Process Emissions in CO2e by Pollutant	
+Output Industry Sector Energy Related CO2e Emissions by Industry	
+Output Industry Sector Energy Related CO2e Emissions by Pollutant	
+Output Components Energy Use by Component	
+Output Components Energy Use by Building Type	
+Output Components Energy Use by Energy Source	
+Output Total Primary Energy Use by Type	
+Output Refined Petroleum Fuels Primary Energy Use	
+Output Liquid Biofuels Primary Energy Use	
+Output Primary Energy Use by Industry Sector	
+Output Primary Energy Use by Electricity Sector	
+Output Primary Energy Use by Transportation Sector	
+Output Primary Energy Use by Water and Waste Sector	
+Output Primary Energy Use by Buildings Sector	
+Output Primary Energy Use by Agriculture Sector	
+Output Primary Energy Use by District Heat Sector	
+Output Total Electricity Demand	
+Output Total Hard Coal Consumption	
+Output Total Lignite Consumption	
+Output Total Natural Gas Consumption	
+Output Total Petroleum Fuels Consumption	
+Output Total Liquid Biofuels Consumption	
+Output Total Biomass Consumption	
+Output Total LPG Propane and Butane Consumption	
+Output Total Municipal Solid Waste Consumption	
+Output Total Hydrogen Consumption	
+Output Total Primary Energy Use per Unit GDP	
+Output Energy Exports including Electricity	
+Output Refined Petroleum Fuels Exports	
+Output Coal and Lignite Exports	
+Output Liquid Biofuels Exports	
+Output Change in Energy Exports including Electricity	
+Output Change in Refined Petroleum Fuels Exports	
+Output Change in Coal and Lignite Exports	
+Output Change in Liquid Biofuels Exports	
+Output Energy Export Revenue including Electricity	
+Output Refined Petroleum Fuels Export Revenue	
+Output Coal and Lignite Export Revenue	
+Output Liquid Biofuels Export Revenue	
+Output Change in Energy Export Revenue including Electricity	
+Output Change in Refined Petroleum Fuels Export Revenue	
+Output Change in Coal and Lignite Export Revenue	
+Output Change in Liquid Biofuels Export Revenue	
+Output Embedded CO2 in Exported Fuels	
+Output Embedded CO2 in Exported Refined Petroleum Fuels	
+Output Embedded CO2 in Exported Coal and Lignite	
+Output Embedded CO2 in Exported Liquid Biofuels	
+Output Change in Embedded CO2 in Exported Fuels	
+Output Change in Embedded CO2 in Exported Refined Petroleum Fuels	
+Output Change in Embedded CO2 in Exported Coal and Lignite	
+Output Change in Embedded CO2 in Exported Liquid Biofuels	
+Output Energy Imports including Electricity	
+Output Refined Petroleum Fuels Imports	
+Output Coal and Lignite Imports	
+Output Liquid Biofuels Imports	
+Output Change in Energy Imports including Electricity	
+Output Change in Refined Petroleum Fuels Imports	
+Output Change in Coal and Lignite Imports	
+Output Change in Liquid Biofuels Imports	
+Output Energy Import Expenditures including Electricity	
+Output Refined Petroleum Fuels Import Expenditures	
+Output Coal and Lignite Import Expenditures	
+Output Liquid Biofuels Import Expenditures	
+Output Change in Energy Import Expenditures including Electricity	
+Output Change in Refined Petroleum Fuels Import Expenditures	
+Output Change in Coal and Lignite Import Expenditures	
+Output Change in Liquid Biofuels Import Expenditures	
+Output Energy Production including Electricity and Heat	
+Output Refined Petroleum Fuels Production	
+Output Coal and Lignite Production	
+Output Liquid Biofuels Production	
+Output Change in Energy Production including Electricity and Heat	
+Output Change in Refined Petroleum Fuels Production	
+Output Change in Coal and Lignite Production	
+Output Change in Liquid Biofuels Production	
+Output Fuel Costs per Unit Energy by Sector	
+Output Battery Cost	
+Output Capital Cost of Epqt to Sequester One Ton of CO2 per Year	
+Output Construction Cost per Unit Capacity before Construction Subsidies	
+Output Hydrogen Production Equipment CapEx	
+Total CO2e Emissions	
+BAU Total CO2e Emissions	
+Transportation Sector Pollutant Emissions	
+BAU Transportation Sector Pollutant Emissions	
+Total CO2e Emissions by Sector	
+BAU Electricity Sector CO2e Emissions	
+Buildings Sector Pollutant Emissions Summed Across Building Types	
+BAU Buildings Sector Pollutant Emissions Summed Across Building Types	
+Industrial Sector CO2e Emissions	
+BAU Industrial Sector CO2e Emissions	
+District Heating Pollutant Emissions Summed Across Fuels	
+BAU District Heating Pollutant Emissions Summed Across Fuels	
+Hydrogen Sector CO2e Emissions	
+BAU Hydrogen Sector CO2e Emissions	
+LULUCF Anthropogenic Pollutant Emissions	
+This Year CO2 Sequestered	
+BAU This Year CO2 Sequestered	
+Achieved LCFS Percentage before Fuel Shifts	
+Required LCFS Percentage	
+Maximum Possible LCFS Percentage	
+Achieved LCFS Percentage	
+Industrial Fuel Use for Energy Purposes before CCS and Methane Capture	
+Transportation Sector Fuel Used	
+Total Electricity Demand	
+Electricity Demand by Industry	
+Electricity Generation Capacity by Type Including Distributed Generation	
+Electricity Generation by Type Including Distributed Generation	
+Electricity Generation by Type	
+Electricity Generation Capacity	
+BAU Cargo Dist Transported	
+Output Total CO2e Emissions	
+New Vehicles	
+Vehicles	
+BDEQ BAU Electricity Output from Distributed Sources	
+Direct Buildings Pollutant Emissions	
+Transportation Pollutant Emissions Disaggregated	
+Industrial Sector Energy Related Emissions before CCS	
+Electricity Sector Pollutant Emissions	
+BCEU BAU Components Energy Use	
+BAADTbVT BAU Average Annual Dist Traveled by Vehicle Type
+BAU Amount Spent on Industry Fuels
+BObIC BAU Output by ISIC Code
+BIFUbC BAU Industrial Fuel Use before CCS
+Change in Domestic Jobs after Productivity Effects by ISIC Code
+Compensation per Employee by ISIC Code
